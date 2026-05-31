@@ -1,1 +1,22 @@
-# saitodesu
+[index.html](https://github.com/user-attachments/files/28439335/index.html)
+# saitodesu<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <meta name="description" content="text text text">
+</head>
+<body>
+    <h1>,犯人はいつもお寿司！
+        <p>（エビのお寿司）</p>
+
+        <h2>お寿司が作った物</h2>
+        ,<ul>bloc2bot</ul>
+        <ul>このサイト</ul>
+
+        <a href="https://youtu.be/9i53HSOS3U4?si=gYMsZEkHGuAZEqnt">この動画見よう！</a>
+    </h1>
+    
+</body>
+</html>
