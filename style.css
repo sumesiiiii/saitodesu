@@ -2,12 +2,31 @@
 
 h1 {
     font-weight: bold;
-    color: #ffffff;
-    background-color: black;
+    color: #000000;
     font-size: 50px;
+    margin: 10px 0px 0px 0px;
 }
 p {
     font-weight: bold;
     color:black;
     font-size: 35px;
+}
+
+button{
+    padding: 5px 30px;
+    font-size: 20px;
+}
+
+.sushi h1 {
+    text-align: center;
+    font-size: 80px;
+    background-color: black;
+    color: #ffffff;
+}
+
+.block2 {
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 1px;          /* 余計な余白を消す */
+    margin-left: 10px;
 }
